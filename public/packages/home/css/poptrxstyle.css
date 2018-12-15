@@ -1,0 +1,21 @@
+body{
+	background: none;
+	font-size: 2rem;
+	color: white; 
+}
+
+.imgs{
+	float:left; 
+	padding:1rem; 
+	cursor:pointer;
+}
+.imgs:hover{
+	opacity:0.5;
+	position: relative;
+	top: 5px;
+}
+table{
+	width:auto; 
+	font-size:2rem; 
+	line-height:4rem;
+}
