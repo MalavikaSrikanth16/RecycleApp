@@ -1,4 +1,4 @@
-#RecycleIt
+### RecycleIt
 
 An application that:
 
